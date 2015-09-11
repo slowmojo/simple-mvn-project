@@ -1,7 +1,5 @@
 package com.evolutionnext.model;
 
-import static org.hamcrest.CoreMatchers.instanceOf;
-
 import java.util.Collections;
 import java.util.List;
 
